@@ -4,7 +4,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://api.maxkb.ai",
+  hostname: "https://docs.maxkb.ai",
 
   author: {
     name: "Tong Li",
